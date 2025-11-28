@@ -48,3 +48,5 @@ PoS: 51% attack requires acquiring majority stake; misbehavior can be penalized 
 PoW excels in historical security, decentralization, and economic resistance to attacks. However, its energy-intensive nature and scalability limitations hinder modern blockchain applications.
 
 PoS significantly reduces energy usage, improves throughput, and enables flexibility in network design. However, it introduces new concerns such as stake centralization, which may affect decentralization properties.
+
+*https://medium.com/@hellodadedaud/analisis-komparatif-mekanisme-konsensus-proof-of-work-dan-proof-of-stake-dari-perspektif-performa-801dc51b742c
