@@ -1,5 +1,3 @@
-# Comparative Analysis of Proof of Work and Proof of Stake Consensus Mechanisms from Performance and Energy Efficiency Perspectives
-
 # Results
 
 # 1. Energy Consumption
