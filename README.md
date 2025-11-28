@@ -49,4 +49,6 @@ PoW excels in historical security, decentralization, and economic resistance to 
 
 PoS significantly reduces energy usage, improves throughput, and enables flexibility in network design. However, it introduces new concerns such as stake centralization, which may affect decentralization properties.
 
-*https://medium.com/@hellodadedaud/analisis-komparatif-mekanisme-konsensus-proof-of-work-dan-proof-of-stake-dari-perspektif-performa-801dc51b742c
+https://medium.com/@hellodadedaud/analisis-komparatif-mekanisme-konsensus-proof-of-work-dan-proof-of-stake-dari-perspektif-performa-801dc51b742c
+
+https://medium.com/@hellodadedaud/en-comparative-analysis-of-proof-of-work-and-proof-of-stake-consensus-mechanisms-from-the-d3103b92b41e
