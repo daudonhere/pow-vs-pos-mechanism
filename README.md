@@ -1,44 +1,42 @@
 # Results
 
 1. Energy Consumption
-Simulation indicates:
 
-PoW requires approximately 30–150 million Joules per block.
+- Simulation indicates :
 
-PoS requires only about 0.2 Joules per block.
+- PoW requires approximately 30–150 million Joules per block.
 
-Real-world estimates show:
+- PoS requires only about 0.2 Joules per block.
 
-Bitcoin PoW ≈ 120–200 TWh/year
+- Real-world estimates show :
 
-Ethereum PoS ≈ 0.01 TWh/year
+- Bitcoin PoW ≈ 120–200 TWh/year
 
-→ ≈99.95% energy reduction
+- Ethereum PoS ≈ 0.01 TWh/year
+
+-  → ≈99.95% energy reduction
 
 
 2. Throughput (TPS)
 
-Mechanism	Throughput
+- Mechanism	Throughput
 
-PoW (Bitcoin)	3–7 TPS
+- PoW (Bitcoin)	3–7 TPS
 
-PoS (Ethereum)	30–100 TPS
+- PoS (Ethereum)	30–100 TPS
 
-Modern PoS Chains (Solana, Near)	>1,000 TPS
+- Modern PoS Chains (Solana, Near)	>1,000 TPS
 
-
-3. Finality
-
-PoW: ~60 minutes (Bitcoin 6-block confirmation)
-
-PoS: 2–15 minutes (Ethereum PoS epochs)
+4. Finality
+- PoW: ~60 minutes (Bitcoin 6-block confirmation)
+  
+- PoS: 2–15 minutes (Ethereum PoS epochs)
 
 
-4. Security
-
-PoW: Highly resistant due to computational cost; 51% attack requires enormous hashing power + energy.
-
-PoS: 51% attack requires acquiring majority stake; misbehavior can be penalized via slashing.
+5. Security
+- PoW: Highly resistant due to computational cost; 51% attack requires enormous hashing power + energy.
+  
+- PoS: 51% attack requires acquiring majority stake; misbehavior can be penalized via slashing.
 
 
 # Analysis
